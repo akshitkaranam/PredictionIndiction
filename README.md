@@ -1,6 +1,6 @@
-## Introduction and Dataset
+## Introduction
 
-*Introduction*
+PredictionIndiction was built as part of the coursework for CZ1016: Introduction to Data Science and Artificial Intelligence
 
 PredictionIndiction is a restaurant recommendation system that goes beyond the usual notion of using attributes, such as cuisine and rating, to generate recommendation solely based on the restaurants the user has visited. Instead, PredictionIndiction also takes into account the restaurants his friends have visited.
 
